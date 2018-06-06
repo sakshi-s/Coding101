@@ -1,0 +1,11 @@
+--2018-06-06 13:10:59--  https://github.com/php/playground/blob/master/HelloWorld.txt
+Resolving github.com (github.com)... 192.30.253.113, 192.30.253.112
+Connecting to github.com (github.com)|192.30.253.113|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘HelloWorld.txt’
+
+     0K .......... .......... .......... ........              47.0K=0.8s
+
+2018-06-06 13:11:02 (47.0 KB/s) - ‘HelloWorld.txt’ saved [38975]
+
